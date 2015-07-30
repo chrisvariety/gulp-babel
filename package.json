@@ -1,6 +1,6 @@
 {
-  "name": "gulp-babel",
-  "version": "5.1.0",
+  "name": "@chrisvariety/gulp-babel",
+  "version": "5.2.2",
   "description": "Turn ES6 code into vanilla ES5 with no runtime required",
   "license": "MIT",
   "repository": "babel/gulp-babel",
@@ -37,7 +37,7 @@
     "6to5"
   ],
   "dependencies": {
-    "babel-core": "^5.0.0",
+    "babel-core": "5.6.14",
     "gulp-util": "^3.0.0",
     "object-assign": "^2.0.0",
     "replace-ext": "0.0.1",
